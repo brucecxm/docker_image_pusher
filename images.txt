@@ -1,1 +1,1 @@
-mongo
+rabbitmq:3-management
