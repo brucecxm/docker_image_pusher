@@ -1,1 +1,1 @@
-rabbitmq:3-management
+webcenter/activemq:5.14.3
