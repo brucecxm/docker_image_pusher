@@ -1,1 +1,1 @@
-webcenter/activemq:5.14.3
+jenkins:2.426.2-lts
