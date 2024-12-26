@@ -1,1 +1,1 @@
-jenkins/jenkins:2.426.2-lts
+redis:5.0.14
