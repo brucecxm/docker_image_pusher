@@ -1,1 +1,1 @@
-redis:7.2-alpine
+pgvector:0.8.0-pg15
